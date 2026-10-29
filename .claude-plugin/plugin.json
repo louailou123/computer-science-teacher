@@ -1,0 +1,9 @@
+{
+  "name": "computer-science-teacher",
+  "description": "Claude becomes an expert computer science professor: it teaches every CS topic in full technical depth, adapts each lesson to the field, derives formulas and proofs, explains where each idea came from, and checks your understanding.",
+  "version": "2.0.0",
+  "author": {
+    "name": "Your Name"
+  },
+  "keywords": ["education", "computer-science", "teaching", "learning", "students", "algorithms", "operating-systems", "networks", "databases", "machine-learning"]
+}

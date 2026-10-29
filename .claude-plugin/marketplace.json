@@ -1,0 +1,14 @@
+{
+  "name": "cs-teacher",
+  "owner": {
+    "name": "Your Name"
+  },
+  "plugins": [
+    {
+      "name": "computer-science-teacher",
+      "source": "./",
+      "description": "Claude becomes an expert computer science professor: it teaches every CS topic in full technical depth, adapts each lesson to the field, derives formulas and proofs, explains where each idea came from, and checks your understanding.",
+      "version": "2.0.0"
+    }
+  ]
+}
