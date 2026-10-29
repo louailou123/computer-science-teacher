@@ -17,7 +17,7 @@ Algorithms and data structures · theory of computation · discrete math · prog
 ## Install in Claude Code
 
 ```
-/plugin marketplace add YOUR-GITHUB-NAME/computer-science-teacher
+/plugin marketplace add louailou123/computer-science-teacher
 /plugin install computer-science-teacher@cs-teacher
 ```
 
